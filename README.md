@@ -40,3 +40,6 @@ After training the model, the performance of each algorithm will be compared to 
 ## Conclusion
 
 In conclusion, this project aims to predict student grades using machine learning algorithms and determine the factors that most significantly impact their performance. Although the initial implementation may have room for improvement in accuracy, this project provides an excellent foundation for future research and analysis.
+
+## ToDo
+Improve accuracy, find what is causing the prediction accuracy to be lower than expected.
